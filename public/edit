@@ -1,0 +1,12 @@
+<div className="md:h-14 h-7 md:w-96 w-52  bg-white absolute md:right-14 md:rounded-full rounded-md flex justify-center">
+    <input type="text" className="ml-8 md:text-sm text-xs placeholder-gray-400 border-none outline-none" placeholder="Enter email address" />
+<div className="flex justify-center items-center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="red" className="md:size-10 size-5 absolute md:right-5 righ hover:translate-x-1">
+<path fillRule="evenodd" d="M16.72 7.72a.75.75 0 0 1 1.06 0l3.75 3.75a.75.75 0 0 1 0 1.06l-3.75 3.75a.75.75 0 1 1-1.06-1.06l2.47-2.47H3a.75.75 0 0 1 0-1.5h16.19l-2.47-2.47a.75.75 0 0 1 0-1.06Z" clipRule="evenodd" />
+</svg>
+</div>
+</div>
+
+
+
+</div>
